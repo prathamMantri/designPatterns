@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.pratham.designPatterns.singleton</OriginalElement>
+  <nodes>
+    <node x="0.0" y="80.0">com.pratham.designPatterns.singleton.Logger</node>
+    <node x="0.0" y="0.0">com.pratham.designPatterns.singleton.TestLogger</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="62.5" y="57.5" />
+  <SelectedNodes>
+    <node>com.pratham.designPatterns.singleton.Logger</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
