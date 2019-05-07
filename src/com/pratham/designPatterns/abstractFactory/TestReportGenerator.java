@@ -10,8 +10,8 @@ public class TestReportGenerator {
         for (int i = 0; i < showReport.length; i++)
             for (int j = 0; j < reportType.length; j++) {
                 ReportsAbstractFactory reportsAbstractFactory = ReportGenerator.generate(showReport[i]);
-                Reports reports = reportsAbstractFactory.generateReports(reportType[j]);
-                reports.generate();
+                Reports reports = reportsAbstractFactory.show(reportType[j]);
+                reports.generateReport();
             }
     }
 
