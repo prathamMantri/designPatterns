@@ -4,7 +4,6 @@ public class TestReportGenerator {
 
     public static void main(String args[]) {
 
-
         String[] showReport = {"web", "excel"};
         String[] reportType = {"Production", "Performance"};
         for (int i = 0; i < showReport.length; i++)
